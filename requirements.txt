@@ -1,0 +1,9 @@
+numpy == 1.20
+laspy == 2.5.4
+rasterio == 1.4.3
+GDAL @file://./wheels/GDAL-3.4.3-cp39-cp39-win_amd64.whl
+shapely == 2.0.5
+geopandas == 1.0.1
+tqdm == 4.66.5
+PySide2 == 5.15.2.1
+pyvista == 0.44.2
